@@ -1,0 +1,1 @@
+Algorithm and Data structures involve the study of fundamental algorithms and data organizations techniques,focusing on problemn solving efficiency,algorithmic design, and optimizing data storage and retrieval.
